@@ -1,6 +1,6 @@
 mode: balance
 containers:
-  - address: http://106.52.199.221:5700/
+  - address: http://127.0.0.1:5700/
     username: qilinlin
     password: qi2814631
     cid: VN-YlGi3dfYr
