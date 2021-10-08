@@ -3,8 +3,8 @@ containers:
   - address: http://127.0.0.1:5700/
     username: qilinlin
     password: qi2814631
-    cid: VN-YlGi3dfYr
-    secret: 3DHtero6zFLLMFW1M0Zna-8d
+    cid: jHc7k6GI_8X4
+    secret: g_5fEn-w2ZFLcegnW8ogOf2p
     weigth: 
     mode: parallel
     limit: 9999
