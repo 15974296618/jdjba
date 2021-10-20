@@ -29,7 +29,7 @@ if ($.isNode()) {
   ].filter((item) => !!item);
 }
 const JD_API_HOST = "https://api.m.jd.com/client.action";
-let inviteCodes = ["RtGKv5X8K0_kAPL7UK5RmmBJJT8JXxOgSn9ci2ur3049-AYT"];
+let inviteCodes = ["RtGKzbjyQg2qLdCTQ4E00lTq0y_W8fBKCyn6LuBEqCSC9Z_JkQ@RtGKjLf9Jk78JPXkXb1OmsjTODjmbYpDh8CErVhv7FFO38aI"];
 !(async () => {
   if (!cookiesArr[0]) {
     $.msg(
