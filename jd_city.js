@@ -29,7 +29,7 @@ if ($.isNode()) {
   ].filter((item) => !!item);
 }
 const JD_API_HOST = "https://api.m.jd.com/client.action";
-let inviteCodes = ["RtGKzuqmRQn1edKeQ9Q312nBUaBVngyUqhXa3rpdMrrpyywFfw@RtGKzOTxQ1nwL4qfQt071WGpeIclGBjj3mgjsILvNrlx-AeOzg@RtGKroblH0nJBufmSbJOmvE01uHpkt35lVknWV5h-VyegSF6"];
+let inviteCodes = ["RtGKzuugFwmmL4qTRtdi0D9l4hjUuFZCJi0Wi4a1PI090GC-EA@RtGKzL6gFFj3fYaaQoJi0G04PYWheSE8hz73A6_T3Mf2F8ch9Q@RtGKm7jhN1HaHuTiTIximrMdcOxPs9RMCmex7jBhsgU9dnIQ"];
 !(async () => {
   if (!cookiesArr[0]) {
     $.msg(
