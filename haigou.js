@@ -30,10 +30,10 @@ if ($.isNode()) {
         return;
     }
     
-    authorCodeList = ['e615a72ca0544ca9b3e4638de63aa6a3']
+    authorCodeList = ['8ea12bd5aa094cdf9f34d8d0b8264561']
     if($.getAuthorCodeListerr === false){
         authorCodeList = [
-            'e615a72ca0544ca9b3e4638de63aa6a3',
+            '8ea12bd5aa094cdf9f34d8d0b8264561',
         ]
     }
     for (let i = 0; i < cookiesArr.length; i++) {
