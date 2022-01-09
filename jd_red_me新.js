@@ -3,11 +3,11 @@
 量子内部返利
 全局改返利
 下面是返利链接
-https://u.jd.com/SLMR0ZU
+https://u.jd.com/Sdiquf7
 跳转到app 可查看助力情况
 */
 
-let rebateCodes = ''
+let rebateCodes = 'https://u.jd.com/Sdiquf7'
 
 const $ = new Env('2022年年货节京享红包活动🧧');
 const jdCookieNode = $.isNode() ? require('./jdCookie.js') : '';
