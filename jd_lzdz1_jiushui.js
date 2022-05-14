@@ -1,7 +1,7 @@
 /*
 酒水会员盛典
 */
-const $ = new Env("酒水会员盛典 每日20*20");
+const $ = new Env("酒水会员盛典");
 const jdCookieNode = $.isNode() ? require("./jdCookie.js") : "";
 const notify = $.isNode() ? require("./sendNotify") : "";
 let cookiesArr = [], cookie = "", message = "";
