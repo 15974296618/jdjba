@@ -15,9 +15,10 @@
  */
 const ql_token = ''; //青龙token 游览器打开http://xxxxxx:5700/open/auth/token?client_id=xxxxxx&client_secret=xxxxxxxx 将返回里token填进去
 const ql_url = 'http://192.*.*.*:5700'; //自己的青龙地址 与上方地址同一个青龙
-const log_url = 'http://www.madrabbit.cf:8080/license/log?tg_id=1072936724&token=PGjfir9546';  //自己的api地址  请积极赞助兔子获取自己的api
+const log_url = 'http://ipvb.tpddns.cn:8104/getlog';  //自己的api地址  请积极赞助兔子获取自己的api
 //每日120次 请大家分时获取 50log可用一星期  傻妞命令如:logs 50 
 //备用api:http://www.madrabbit.cf:8080/license/log?tg_id=1054380670&token=PUIFGhjg65
+//备用api:http://www.madrabbit.cf:8080/license/log?tg_id=1072936724&token=PGjfir9546
 /**
  * 修改区域结束
  */
